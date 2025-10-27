@@ -36,7 +36,7 @@ To run the game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pharaohmak/space-shooter-game.git
+   git clone https://github.com/pharaohmak/space-invaders-game.git
    cd space-shooter-game
 
 2. Ensure you have Python and Pygame installed. If not, install Pygame using pip:
