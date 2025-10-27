@@ -1,4 +1,4 @@
-# Space Shooter Game with Pygame
+# Space Invaders Game with Pygame
 
 This repository contains a space shooter game implemented using Pygame, a popular Python library for creating 2D games.
 
@@ -36,7 +36,7 @@ To run the game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/space-shooter-game.git
+   git clone https://github.com/pharaohmak/space-shooter-game.git
    cd space-shooter-game
 
 2. Ensure you have Python and Pygame installed. If not, install Pygame using pip:
